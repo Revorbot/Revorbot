@@ -4,10 +4,10 @@
 
 ***
 
-- I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.milrato.dev)
+- I’m currently working on a [**Good Advance Multi PurposeBot**](https://dsc.gg/revor)
   
 
-- I’m currently coding in **Javascript** and C#.  
+- I’m currently coding in **Javascript**, **C#** and **Python**.  
   
 
 - I am in love with coding Discord Bots, I also love helping!.
