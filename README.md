@@ -1,6 +1,6 @@
 ## <div align="center">Hi, Im Juwen im A Js Dev, Immaking bots since 2021</div>  
 
-![](https://discord.c99.nl/widget/theme-5/980859238630948886.png)  
+![](https://discord.c99.nl/widget/theme-2/980859238630948886.png)  
 
 ***
 
