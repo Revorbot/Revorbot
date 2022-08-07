@@ -1,16 +1,15 @@
-### Hi there 👋
+## <div align="center">Hi, Im Juwen im A Js Dev, Immaking bots since 2021</div>  
 
-<!--
-**Revorbot/Revorbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://discord.c99.nl/widget/theme-5/980859238630948886.png)  
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.milrato.dev)
+  
+
+- I’m currently coding in **Javascript** and C#.  
+  
+
+- I am in love with coding Discord Bots, I also love helping!.
+  
+<br/>
